@@ -3,7 +3,7 @@ In this repository, we provide python implementation of some traditional change 
 
 
 ## Traditional Methods
-### Change Vector Analysis (CVA)
+### Change Vector Analysis (CVAA)
 Change vector analysis (CVA) [1] is a most commonly used method, which can provide change intensity and change direction. 
 
 ### Slow Feature Analysis (SFA)
