@@ -2,7 +2,7 @@
 In this repository, we provide python implementation of some traditional change detection methods, such as SFA, MAD, some deep learning-based change detection methods, such as SiamCRNN, DSFA, and FCN-based methods, or their original websites. Some [multi-temporal datasets](https://github.com/I-Hope-Peace/ChangeDetectionRepository/tree/master/Dataset) are also contained in this repository. We would be very glad if this repository can provide some help to your research in change detection or remote sensing image interpretation.
 
 
-## Traditional Method
+## Traditional Method #1
 ### Change Vector Analysis (CVAA)
 Change vector analysis (CVA) [1] is a most commonly used method, which can provide change intensity and change direction. 
 
